@@ -1,0 +1,11 @@
+title = "Sample TOML File"
+
+[author]
+name = "Nikhil Akki"
+email = "akki@gopythonrust.com"
+
+[database]
+server = "localhost"
+port = 5432
+username = "root"
+password = "super-secret"
